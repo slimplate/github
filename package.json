@@ -1,6 +1,6 @@
 {
   "name": "@slimplate/github",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Functions to interface with git",
   "keywords": [
     "slimplate",
