@@ -47,5 +47,8 @@
     "@slimplate/utils": "latest",
     "@isomorphic-git/lightning-fs": "^4.6.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "files": [
+    "dist/**/*"
+  ]
 }
