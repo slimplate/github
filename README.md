@@ -1,7 +1,7 @@
 # github
 A github library to interface with git directly. 
 
-Github Functions // 
+Github Functions
 
 ```js
 add(filepath, opts) // //Git add a file to the local filesystem.
